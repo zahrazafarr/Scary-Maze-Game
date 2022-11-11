@@ -9,6 +9,7 @@ body {
 
 h4 {
     color: white;
+    text-decoration: underline;
 }
 
 .start {
@@ -46,9 +47,9 @@ h4 {
 
 #wall3 {
     border: 1px solid turquoise;
-    width: 508px;
+    width: 563px;
     height: 100px;
-    margin-left: 90px;
+    margin-left: 35px;
     background-color: turquoise;
 }
 
@@ -105,6 +106,13 @@ h4 {
     background-color: turquoise;
 }
 
+#wall10 {
+    border: 1px solid turquoise;
+    width: 375px;
+    height: 95px;
+    margin-top: -190px;
+    background-color: turquoise;
+}
 
 #path {
     border: 1px solid black;
@@ -120,7 +128,7 @@ h4 {
     border: 1px solid black;
     width: 96px;
     height: 98px;
-    margin-top: -505px;
+    margin-top: -415px;
     margin-left: 502px;
     padding-bottom: 3px;
     background-color: black;
