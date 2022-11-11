@@ -1,8 +1,112 @@
 * {
-    margin: auto;
-    padding: auto;
+    margin: 0;
+    padding: 0;
 }
 
 body {
+    background-color: black;
+}
+
+#maze {
+    width: 600px;
+    height: 675px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 40px;
+}
+
+#wall {
+    border: 1px solid turquoise;
+    width: 500px;
+    height: 100px;
+    background-color: turquoise;
+}
+
+#wall2 {
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+    background-color: black;
+}
+
+#wall3 {
+    border: 1px solid turquoise;
+    width: 508px;
+    height: 100px;
+    margin-left: 90px;
+    background-color: turquoise;
+}
+
+#wall4 {
+    border: 1px solid turquoise;
+    width: 500px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    background-color: turquoise;
+}
+
+#wall5 {
+    border: 1px solid turquoise;
+    width: 208px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 390px;
+    background-color: turquoise;
+}
+
+#wall6 {
+    border: 1px solid turquoise;
+    width: 300px;
+    height: 128px;
+    margin-right: 90px;
+    background-color: turquoise;
+}
+
+#wall7 {
+    border: 1px solid turquoise;
+    width: 110px;
+    height: 148px;
+    margin-top: -150px;
+    margin-left: 488px;
+    background-color: turquoise;
+}
+
+#wall8 {
+    border: 1px solid turquoise;
+    width: 110px;
+    height: 98px;
+    margin-top: -100px;
+    margin-left: 300px;
+    background-color: turquoise;
+}
+
+#wall9 {
+    border: 1px solid turquoise;
+    width: 300px;
+    height: 70px;
+    margin-top: -250px;
+    margin-left: 100px;
+    background-color: turquoise;
+}
+
+
+#path {
+    border: 1px solid black;
+    width: 74px;
+    height: 98px;
+    margin-top: 500px;
+    margin-left: 412px;
+    padding-bottom: 3px;
+    background-color: black;
+}
+
+#path2 {
+    border: 1px solid black;
+    width: 96px;
+    height: 98px;
+    margin-top: -505px;
+    margin-left: 502px;
+    padding-bottom: 3px;
     background-color: black;
 }
